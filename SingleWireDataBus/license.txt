@@ -1,3 +1,0 @@
-As a user of this library, you may modify and redistribute it in any way, whether for personal, public, or business use. You may not attach my name, any contact information, or the library.properties file in this folder to any modified or redistributed version of this library.
-
-I, as the author of this library, do not accept any responsibility for any damage to devices or hardware as a result of using this library. 
